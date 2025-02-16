@@ -1,7 +1,7 @@
 
-# [Project Name] 🚀
+# Phishing Telegram Bot 🚀
 
-![Banner Image](https://via.placeholder.com/1920x500.png?text=Project+Banner)  
+![Banner Image](https://i.postimg.cc/gk03sZ8q/photo-collage-png.png)  
 *Replace with your project banner image URL.*
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -16,7 +16,7 @@ A short, catchy description of your project. Explain what it does and why it mat
 
 | Feature 1 | Feature 2 |
 |-----------|-----------|
-| ![Screenshot 1](https://via.placeholder.com/400x300.png?text=Feature+1) | ![Screenshot 2](https://via.placeholder.com/400x300.png?text=Feature+2) |
+| ![Screenshot 1](https://i.postimg.cc/hjr7bDG5/Screenshot-2025-02-16-151410.png) | ![Screenshot 2](https://i.postimg.cc/Kcp1Zs3B/Screenshot-2025-01-24-153505.png) |
 
 ---
 
